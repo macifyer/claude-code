@@ -1,5 +1,5 @@
 > [!NOTE]
-> This is repo is ONLY for research purposes only
+> This is repo is for research purposes ONLY
 
 # Claude Code
 
