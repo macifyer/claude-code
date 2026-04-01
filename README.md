@@ -1,3 +1,6 @@
+> [!NOTE]
+> This is repo is ONLY for research purposes only
+
 # Claude Code
 
 An AI coding agent that runs in your terminal — reading, editing, and executing code across your entire codebase.
